@@ -123,10 +123,4 @@ blue square with the word example1
 - BLEU scores over epochs  
 - Example generated captions  
 
----
 
-## Next Steps
-- Train longer (20+ epochs) for better captions  
-- Use a larger dataset (Flickr30k, MSCOCO)  
-- Try beam search decoding instead of greedy  
-- Fine-tune CNN layers for better feature extraction  
